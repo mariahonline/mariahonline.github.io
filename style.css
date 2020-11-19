@@ -1,0 +1,30 @@
+body{
+  background-color:white;
+}
+h1{
+  color:Lightseagreen;
+  font-family: fantasy;
+  margin-left: 300px;
+    }
+h2{
+  color:Mediumseagreen;
+  font-family:fantasy;
+  margin-left: 450px;
+}
+h3{
+  color:mediumspringgreen;
+  font-family: fantasy;
+  margin-left: 462px;
+
+
+}
+h4{
+  color:Mediumslateblue;
+  font-family: fantasy;
+  margin-left:100px;
+
+}
+img{
+  border: 5px solid black;
+  margin-left: 100px;
+}
